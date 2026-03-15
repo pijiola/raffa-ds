@@ -15,7 +15,14 @@
   --radius-lg: 24px;
   --radius-xl: 32px;
 
-  /* Colors — replace these with your product's brand colors */
+  /* Colors */
+  --color-brand-contrast: #f08e19;
+  --color-text-light: #b0b0b0;
+  --color-surface-base: #ffffff;
 
-  /* Typography — add your font tokens here */
+  /* Typography */
+  --font-family-base: 'Outfit', sans-serif;
+  --font-weight-medium: 500;
+  --text-sm-font-size: 14px;
+  --text-sm-line-height: 16px;
 }
